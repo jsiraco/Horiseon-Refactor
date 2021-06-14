@@ -24,6 +24,7 @@ h1 .seo {
     color: #d9dcd6;
 }
 
+/* Sets up the styles for the navigation bar at the top of the page */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Creates the hero background image for the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* This section styles the main content for the page and and the images */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +96,7 @@ h2 {
     max-height: 200px;
 }
 
+/* This section creates the sidebar and styles accordingly */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +124,7 @@ h3 {
     max-width: 150px;
 }
 
+/* Styles the footer and center aligns it */
 .footer {
     padding: 30px;
     clear: both;
