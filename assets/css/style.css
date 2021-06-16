@@ -91,6 +91,7 @@ h2 {
     font-size: 36px;
 }
 
+/* Section and article class stylings were moved here and condensed to clean code */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,10 +120,12 @@ h3 {
     text-align: center;
 }
 
+/* Sidebar class styling was moved here and condensed to clean code */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* Sidebar img styling was moved here and condensed to clean code */
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
